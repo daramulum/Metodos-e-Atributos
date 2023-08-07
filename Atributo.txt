@@ -1,0 +1,4 @@
+Atributos
+Raça: Humano
+Nome: Joww
+Peso: 70 kg

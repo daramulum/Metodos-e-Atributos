@@ -1,0 +1,4 @@
+Andar
+Correr
+Dormir
+Comer
